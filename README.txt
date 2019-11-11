@@ -1,6 +1,6 @@
 Below is the provided username and passwords for the different users on the site
 
-WEBSITE URL: http://18.216.17.224/
+THE WEBSITE IS CURRENTLY UNHOSTED
 
 ADMIN USER -----------------------------
 ID: 3
